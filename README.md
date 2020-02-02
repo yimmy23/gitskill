@@ -1,3 +1,3 @@
-# gitskill	
+ gitskill	
 creating a new brance: git checkout -b dev
-git branchl
+Creating a new branch is quick AND simple.
